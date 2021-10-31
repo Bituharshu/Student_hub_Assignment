@@ -1,0 +1,48 @@
+<!DOCTYPE html> <!--Html 5v-->
+<html lang="en"> <!--start html-->
+<head> <!-- Head Links -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day - 7</title>
+</head> <!--head tag closed-->
+<body> <!--Body - All Your Website Code-->
+    <!--starting Css With HTML-->
+    <h1>Welcome To Student Hub</h1> <!-- header h1 bigest header size-->
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi cum ut enim aut accusamus atque delectus possimus, repellat ducimus aliquam deleniti ipsam dicta fugit saepe facere, unde rem, nulla dolores?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis officia accusamus beatae nulla magnam quis ratione, facere, odit voluptas, libero natus. Amet cum eligendi fugit dolor suscipit similique minima quisquam?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, ullam earum beatae nesciunt eligendi fugit unde? Modi perspiciatis sapiente impedit. Eveniet quas pariatur totam, nostrum aspernatur veniam quos sunt numquam?</p>
+    
+    <h2>Starting Here..</h2> <!--Header 2 for big size-->
+    <img src="images/logo.jpg" alt="Logo Image" height="300" width="500"> <!-- img tag for display imag and alt tag for title-->
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio consectetur, ratione inventore praesentium, nisi fuga quisquam et placeat quasi, aliquid adipisci ea facilis! Hic sunt nihil ratione minima nesciunt fuga.</p>
+    
+    <hr> <!--horizontal Line v display-->
+
+    <h3>Third Section</h3> <!--header 3  meadiam size-->
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet magni porro praesentium eligendi repellat, amet repellendus, quae veritatis reprehenderit vero molestias fugiat. Architecto, iste eius? Ex tempora vitae autem nihil?</p>
+    
+    
+    <pre> <!--pre Pint same as it is-->
+        <strong>उदासी भरे गाने</strong> सुनते हुए भी अब मैं मुस्कुराने लगा हूँ, <!--important and bold-->
+लगता है <ins>दीवानगी की हद</ins> तक मैं तुझे चाहने लगा हूँ। <!--ins for underline-->
+
+                        <b>तेरे</b> होठों पर ये जो मुस्कान है, <!-- b for bold-->
+                        उसकी वजह कही मैं तो नहीं,
+                        तुम बता रही थी किसी से प्यार है तुम्हे,
+                        <i>कही वो</i> खुशनसीब मैं तो नहीं। <!--for italic convert font-->
+    </pre> <!--pre-->
+    <h4>section 4</h4>  <!--header 4 Small size lease then 3 header-->
+    <pre>
+
+       <mark>जनाब वजह यूं तो कई हैं ग़म में</mark>  डूब जाने की। <!--mark tag for background yellow-->
+पर हमने एक वजह चुनी है उसमें मुस्कुराने की।
+    </pre>
+    <p>Lorem ipsum dolor <sub>sit</sub> amet consectetur adipisicing elit. <sup>Tempora</sup> ipsa cumque laborum aut illo doloremque qui sequi maiores, expedita debitis officia? Cumque veritatis asperiores consequatur, vitae dolor ea deleniti recusandae?</p>
+<h5>Header 5th</h5>
+<p>
+    Lorem ipsum <del>dolor sit</del>,<!--del tag for center lines--> amet consectetur adipisicing elit. Rerum, sapiente accusantium consequatur suscipit quaerat totam mollitia eius fuga. Non molestiae neque nemo <em>hic obcaecati porro inventore? Minima ad expedita doloribus.
+    </p></em> <!-- em tag same italic-->
+
+</body> <!--Body Closed-->
+</html> <!--html Closed-->
